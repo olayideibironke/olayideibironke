@@ -1,4 +1,4 @@
-# AI Systems, Data Engineering & Cloud Platforms
+# Senior Program Analyst | Data Analyst | Federal Program Support | AI | Cloud Developer
 
 I design and build AI-enabled systems, cloud platforms, and data-driven applications. My work focuses on combining data engineering, machine learning experimentation, and full-stack infrastructure to build scalable platforms and intelligent automation systems.
 
