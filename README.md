@@ -1,6 +1,6 @@
-# Senior Program Analyst | Data Analyst | Federal Program Support | AI | Cloud Developer
+# Senior Program Analyst | Data Analyst | Federal Program Support
 
-I design and build AI-enabled systems, cloud platforms, and data-driven applications. My work focuses on combining data engineering, machine learning experimentation, and full-stack infrastructure to build scalable platforms and intelligent automation systems.
+Senior Program Analyst and Data Analyst with experience supporting government programs through analytics, business intelligence, compliance reporting, automation, and technology solutions. I also design AI-enabled systems, cloud platforms, and data-driven applications that improve operational efficiency and decision-making.
 
 Focus Areas
 
